@@ -1,7 +1,6 @@
 # libraryProject
 ## interview assignment
 
-Here's a corrected version of your grammar:
 
 LibraryProject
 Interview Assignment
